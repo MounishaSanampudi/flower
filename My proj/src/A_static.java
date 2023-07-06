@@ -10,7 +10,7 @@ public class A_static {
 		System.out.println(college);
 
 	}
-
+.....
 	public void show() {
 		System.out.println(college);
 	}
